@@ -15,4 +15,6 @@ namespace SampleDemo
             // Feature 1.1 changes
         }
     }
+
+    // Added changes in the master branch
 }
