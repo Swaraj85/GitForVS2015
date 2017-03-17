@@ -11,6 +11,8 @@ namespace SampleDemo
         static void Main(string[] args)
         {
             // Made initial commit from vs2015
+
+            // Feature 1.1 changes
         }
     }
 }
