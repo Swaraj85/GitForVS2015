@@ -13,6 +13,8 @@ namespace SampleDemo
             // Made initial commit from vs2015
 
             // Feature 1.1 changes
+
+            // More changes
         }
     }
 
