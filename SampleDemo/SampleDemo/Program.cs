@@ -13,4 +13,6 @@ namespace SampleDemo
             // Made initial commit from vs2015
         }
     }
+
+    // Added changes in the master branch
 }
