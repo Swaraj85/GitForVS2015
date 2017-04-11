@@ -21,6 +21,8 @@ namespace SampleDemo
             // More changes 3
 
             // Added feature 1.6
+
+            // Added changes for feature sprint 1
         }
     }
 
